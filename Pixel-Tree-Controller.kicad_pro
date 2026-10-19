@@ -566,7 +566,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Pixel-Tree-Controller.step",
       "svg": "",
       "vrml": ""
     },

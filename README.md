@@ -2,11 +2,21 @@
 
 # 🎄 PixelTree Node: High-Current ESP32 WLED Controller
 
+
+
+[![Watch the Tutorial](https://img.shields.io/badge/Watch-YouTube_Tutorial-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=7sRFxRYamAI) [![Read the Article](https://img.shields.io/badge/Read-Website_Article-blue?style=for-the-badge&logo=firefox)](https://bj-dehaan-solutions.com.au/articles/arduino-esp32-iot/driving-800-leds-with-a-custom-esp32-pcb)
+
+[![Project Available on PCBWay](pcb-project-image.png)](https://www.pcbway.com/project/shareproject/High_Current_ESP32_WLED_Controller_7ebfa690.html)
+
+---
+
 **A robust, logic-shifted, and fused Power Distribution Hub for driving massive addressable LED arrays (up to 22A) with an ESP32-S3 and WLED.**
 
 [![Hardware License](https://img.shields.io/badge/License-CERN_OHL_P-blue.svg)](https://ohwr.org/cernohl)
 [![KiCad Version](https://img.shields.io/badge/KiCad-9.0+-blue.svg)](https://www.kicad.org/)
 [![WLED Compatible](https://img.shields.io/badge/Firmware-WLED-brightgreen.svg)](https://kno.wled.ge/)
+
+
 
 <img src="light-test.png" alt="Assembled PCB" width="800"/> 
 
